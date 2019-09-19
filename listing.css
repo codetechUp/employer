@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: blue;
+}
+
+form {
+    position: relative;
+    top: 100px;
+    background-color: white;
+    border: 1px solid #da1818;
+    width: 500px;
+    margin: auto;
+}
+
+div {
+    padding: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+textarea {
+    float: right;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"] {
+    width: 313px;
+    height: 24px;
+}
+
+textarea {
+    width: 319px;
+    height: 43px;
+}
+
+.l input {
+    margin: 4px;
+}
+
+table {
+    position: relative;
+    top: 160px;
+    background-color: white;
+    border: 1px solid #dfdcdc;
+    width: 95%;
+    margin: auto;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid #dfdcdc;
+}
+
+td {
+    background-color: rgba(70, 226, 31, 0.829);
+}
