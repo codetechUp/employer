@@ -40,6 +40,7 @@ CREATE TABLE `employers` (
 -- Contenu de la table `employers`
 --
 
+
 INSERT INTO `employers` (`matricule`, `nom`, `prenom`, `email`, `date_naissance`, `salaire`, `telephone`) VALUES
 ('EM-00001', 'Ndiye', 'Samba', 'leak@hzd.com', '1997-12-11', 4046500, 775574265);
 
